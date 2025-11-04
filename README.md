@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">👨‍💻 Sobre mim</h3>
 
 ###
 
@@ -37,7 +37,7 @@ Sou desenvolvedor <strong>Full Stack</strong> com foco em <strong>Java Spring Bo
 
 ###
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">🛠️ Linguagens e Ferramentas</h3>
 
 ###
 
